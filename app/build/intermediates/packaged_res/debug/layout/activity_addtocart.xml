@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EF0606"
+
+    tools:context=".AddtocartActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/ic_launcher" />
+
+    <EditText
+        android:id="@+id/mtvedtname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="NAME"
+        android:inputType="text"
+        android:text="bughati" />
+
+    <EditText
+        android:id="@+id/medtcolor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Color"
+        android:inputType="text"
+        android:text="grey" />
+
+    <EditText
+        android:id="@+id/medtReg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Reg Number"
+        android:inputType="text"
+        android:text="KDB 002T" />
+
+    <EditText
+        android:id="@+id/mtvpricee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:text="1200000" />
+
+</LinearLayout>

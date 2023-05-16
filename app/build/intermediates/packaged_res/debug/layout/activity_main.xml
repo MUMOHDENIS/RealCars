@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hd12"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textmain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="38dp"
+        android:layout_marginBottom="65dp"
+        android:layout_weight="1"
+        android:text="WELCOME TO REAL CARS LIMITED"
+        android:textAlignment="center"
+        android:textColor="#F8F5F5"
+        android:textSize="40sp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toTopOf="@+id/mtvbuttonCom"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnGetstarted"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="132dp"
+        android:text="GET STARTED"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mtvbuttonCom" />
+
+    <Button
+        android:id="@+id/mtvbuttonCom"
+        android:layout_width="183dp"
+        android:layout_height="45dp"
+        android:layout_marginEnd="82dp"
+        android:layout_marginBottom="251dp"
+        android:background="@color/purple_500"
+        android:text="Email/Sms"
+        app:layout_constraintBottom_toTopOf="@+id/btnGetstarted"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textmain" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

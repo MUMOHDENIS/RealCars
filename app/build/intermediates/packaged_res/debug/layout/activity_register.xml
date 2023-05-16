@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hd12"
+    tools:context=".LoginActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Sign Up"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textColor="#EF0101"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Create A New Account"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="#DD0202"
+        android:layout_marginTop="5dp"
+
+        />
+
+    <EditText
+        android:id="@+id/mEdtName"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="20dp"
+        android:background="#CAC0C0"
+        android:hint="Full Name"
+        android:inputType="text"
+        android:textStyle="bold"
+        android:maxLines="1"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:textSize="16dp" />
+
+
+    <EditText
+        android:id="@+id/mEdtUserEmail"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="20dp"
+        android:background="#C3BABA"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:maxLines="1"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:textSize="16dp" />
+
+
+    <EditText
+        android:id="@+id/mEdtUserPhoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="20dp"
+        android:background="#CCC4C4"
+        android:hint="Mobile"
+        android:inputType="phone"
+        android:textStyle="bold"
+        android:maxLines="1"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:textSize="16dp" />
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/round_back_dark_blue"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="20dp">
+
+
+        <EditText
+            android:id="@+id/mEdtPassword"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#CFC1C1"
+            android:hint="Password"
+            android:textStyle="bold"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:textSize="16sp" />
+
+
+        <ImageView
+
+            android:id="@+id/ShowHidePassword"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:adjustViewBounds="true"
+            android:layout_marginEnd="20dp"
+            android:src="@drawable/password_show_icon"
+
+
+            />
+
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/round_back_dark_blue"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="20dp">
+
+
+        <EditText
+            android:id="@+id/mEdtPasswordConfirmation"
+            android:layout_width="match_parent"
+            android:layout_height="51dp"
+            android:layout_marginEnd="-61dp"
+            android:layout_toStartOf="@+id/HideShowPassword"
+            android:background="#CFBFBF"
+            android:hint="Confirm Password"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            android:textStyle="bold"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:textSize="16sp" />
+
+
+        <ImageView
+
+            android:id="@+id/HideShowPassword"
+            android:layout_width="50dp"
+            android:layout_height="45dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="8dp"
+            android:adjustViewBounds="true"
+            android:background="#E4D4D4"
+            android:src="@drawable/password_show_icon"
+
+            />
+
+
+    </RelativeLayout>
+
+
+    <Button
+        android:id="@+id/mBtnSignIn"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="20dp"
+        android:background="#DF0D0D"
+        android:text="Sign Up"
+        android:textAllCaps="false"
+        android:textColor="#FFFF00" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="40dp">
+
+        <TextView
+            android:id="@+id/SignUpLink"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:text="Already have an account" />
+
+        <TextView
+            android:id="@+id/mTvSignIn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:text="Sign in"
+            android:textColor="#BA0923"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</LinearLayout>
+

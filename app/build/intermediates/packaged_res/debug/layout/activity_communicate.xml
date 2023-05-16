@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hd12"
+    tools:context=".communicate">
+
+    <Button
+        android:id="@+id/btnemail"
+        android:layout_width="0dp"
+        android:layout_height="57dp"
+        android:layout_marginStart="39dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginBottom="116dp"
+        android:text="Email"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/btnsms"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnsms"
+        android:layout_width="0dp"
+        android:layout_height="52dp"
+        android:layout_marginEnd="16dp"
+        android:text="Sms"
+        app:layout_constraintBaseline_toBaselineOf="@+id/btnemail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btnemail" />
+</androidx.constraintlayout.widget.ConstraintLayout>

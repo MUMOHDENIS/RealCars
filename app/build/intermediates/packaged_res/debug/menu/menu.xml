@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.king.myfirstbasicactivityapp.MainActivity">
+    <item
+        android:id="@+id/action_add_cars"
+        android:orderInCategory="100"
+        android:title="Add cars"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_view_cars"
+        android:orderInCategory="100"
+        android:title="View cars"
+        app:showAsAction="never" />
+</menu>

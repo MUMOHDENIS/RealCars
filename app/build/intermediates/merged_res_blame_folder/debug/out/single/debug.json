@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/menu_menu.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/menu/menu.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_hd11.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/hd11.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_bg_blue.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/bg_blue.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_car4.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/car4.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_payment.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_gradient.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/gradient.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_hd1.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/hd1.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_communicate.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_communicate.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_item_layout.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/item_layout.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_addtocart.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_addtocart.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_car5.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/car5.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_googleicon.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/googleicon.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_register.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_hd2.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/hd2.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_car8.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/car8.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_addcars.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_addcars.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_password_show_icon.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/password_show_icon.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_car1.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/car1.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_mpesaaa.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/mpesaaa.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_car6.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/car6.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_login.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-34:/layout_activity_addtocart.xml.flat",
+        "source": "com.example.finalproject.app-main-36:/layout/activity_addtocart.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_car9.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/car9.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_splashscreen.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_splashscreen.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_round_back_dark_blue.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/round_back_dark_blue.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_cr7.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/cr7.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_hd12.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/hd12.jpeg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_car2.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/car2.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_round_background_primary.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/round_background_primary.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_cars.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_cars.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]

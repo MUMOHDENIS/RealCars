@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EF0606"
+
+    tools:context=".AddtocartActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/ic_launcher" />
+
+    <EditText
+        android:id="@+id/mtvedtname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Name"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:inputType="text"
+        />
+
+    <EditText
+        android:id="@+id/medtcolor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Color"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:inputType="text"
+        />
+
+    <EditText
+        android:id="@+id/medtReg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Reg Number"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:inputType="text"
+        />
+
+    <EditText
+        android:id="@+id/mtvpricee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textStyle="bold"
+        android:hint="price"
+        android:textSize="20sp"
+        android:inputType="text"
+        />
+
+    <Button
+        android:id="@+id/btnpurchase"
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:text="PURCHASE" />
+
+</LinearLayout>
